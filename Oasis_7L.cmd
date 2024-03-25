@@ -9,7 +9,7 @@ title "Oasis_By_Kia7L"
 @set "apk=917814321891"
 @set "app=192718563721"
 
-cecho {04}1=Oasis.rom{/h}2=Oasis.apk{/h}3=Oasis.app{07}
+cecho {04}1=Oasis.rom{\n}2=Oasis.apk{\n}3=Oasis.app{07}
 
 set /a m=Choose;
 if (%m%=1) & goto one
